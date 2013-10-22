@@ -1,0 +1,13 @@
+<jboss-deployment-structure>
+  <deployment>
+    <dependencies>
+      <module name="javax.api" />
+      <module name="org.picketbox" />
+      <module name="org.picketlink" />
+      <module name="javax.security.jacc.api" />
+      <module name="org.jboss.as.security" />
+      <module name="org.apache.commons.codec" />
+      <module name="javax.servlet.api" />
+    </dependencies>
+  </deployment>
+</jboss-deployment-structure>
